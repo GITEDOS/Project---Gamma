@@ -20,7 +20,7 @@ The company faced several challenges:
 
 ### Product Performance
 - **Top-Selling Product:** Dumbbells
-- **Least-Selling Product:** Tablet 2
+- **Least-Selling Product:** Tablet 
 
 ### Seasonal Revenue Trend
 - Revenue and sales quantity **skyrocket between October and December** due to holiday shopping.
@@ -48,7 +48,7 @@ The company faced several challenges:
    - Offer **bundle deals** using best-selling products.
 
 2. **Revamp Underperforming Products**
-   - Introduce discounts and bundle Tablet 2 with related products.
+   - Introduce discounts and bundle Tablet  with related products.
    - Adjust pricing strategy for electronics.
 
 3. **Expand in India**
