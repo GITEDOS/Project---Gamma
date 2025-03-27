@@ -67,7 +67,7 @@ The company faced several challenges:
 
 ##  Conclusion
 
-This analysis  can helpe the company:
+This analysis  can help the company:
 - Make **data-driven decisions**.
 - Improve **product portfolio** profitability.
 - Enhance **regional strategy** (India focus).
